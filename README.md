@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Astro Nano](_astro_nano.png)
 
 Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
@@ -62,3 +63,6 @@ Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, e
 ## 🏛️ License
 
 MIT
+=======
+# heyroki
+>>>>>>> 3c464b12a31b7c21c825f2304a810a08994e2b1d
